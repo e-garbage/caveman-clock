@@ -10,4 +10,4 @@ The whole implementation is based around the Armin Jo's ServoEasing Library
 https://github.com/ArminJo/ServoEasing
 
 ### Setup
-Everything was done in PlatformIO in VScode, the whole PlatformIO project is in a separate folder.
+Everything was done in PlatformIO in VScode, the whole PlatformIO project is here: https://github.com/e-garbage/caveman-clock/tree/main/caveman_clock
